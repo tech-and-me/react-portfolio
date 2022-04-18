@@ -1,0 +1,43 @@
+
+#experience img{
+    width: 100px;
+}
+
+
+.skill-logo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 5rem;
+    justify-content: center;
+    padding: 1rem 14rem;
+}
+
+@media screen and (max-width:1024px){
+    #experience img{
+        width: 90px;
+    }
+
+    .skill-logo{
+        gap: 3rem;
+        padding: 1rem 5rem;
+    }
+    
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 600px){
+    #experience img{
+        width: 70px;
+    }
+
+    .skill-logo{
+        gap: 3rem;
+        padding: 1rem 3rem;
+    }
+}

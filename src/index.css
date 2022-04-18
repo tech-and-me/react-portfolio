@@ -11,15 +11,14 @@
 }
 
 :root{
-  --color-bg: #0b0b0b;
-  --color-bg-variant:#514a4a;
+  --color-bg: #1c1b1b;
+  --color-bg-variant:#807777;
   --color-primary:#c0210c;
   --color-primary-variant:rgba(248, 75, 52, 0.847);
   --color-white:#fff;
   --color-light:rgba(255,255,255,0.6);
   --color-beige:rgba(245, 235, 221, 0.902);
 
-  
 
   --transition: all 400m ease;
 
@@ -63,13 +62,13 @@ section{
   margin-top: 8rem;
 }
 
-section > h2,
-section > h5{
+section  h2,
+section  h5{
   text-align: center;
   color:var(--color-light);
 }
 
-section > h2{
+section h2{
   color: var(--color-primary);
   margin-bottom: 3rem;
 }
@@ -89,17 +88,18 @@ a:hover{
 
 
 .btn{
-  width: 10rem;
+  width:6rem;
   display: inline-block;
   /* color: var(--color-primary); */
   color:var(--color-light);
-  padding: .75rem 1.2rem;
+  padding: .5rem;
   border-radius: 0.4rem;
   cursor: pointer;
   border: 1px solid var(--color-primary);
   transition: var(--transition);
   text-align: center;
   margin: 0.8rem 0.3rem;
+  font-size: 0.7rem;
 }
 
 .btn:hover{
@@ -129,7 +129,7 @@ img{
 
   section{
       margin-top:6rem;
-      height: 100vh;
+      /* min-height: 100vh; */
     }
 
     .btn{
@@ -139,7 +139,7 @@ img{
 
 
 /* =====================Media Queries (Small Devices)================== */
-@media screen and (max-width:1024px){
+@media screen and (max-width:600px){
   .container{
     width:var(--container-width-sm);
   }
@@ -147,6 +147,8 @@ img{
   section > h2{
       margin-bottom:2rem;
     }
+
+   
 }
 
 

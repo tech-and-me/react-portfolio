@@ -58,7 +58,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
+      <h1>My Recent Work</h1>
       <h2>Portfolio</h2>
       
       <div className="container portfolio_container">
@@ -69,7 +69,7 @@ const Portfolio = () => {
               <div className="portfolio_item-image">
                 <img src={el.image} alt={el.title} />
               </div>
-              <h3>{el.title}</h3>
+              <h4>{el.title}</h4>
               <a href={el.github} className="btn">Github</a>
               <a href={el.demo} className="btn btn-primary">Live Demo</a>   
             </article>

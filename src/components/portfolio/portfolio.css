@@ -1,3 +1,11 @@
+#portfolio{
+    min-height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+    position: relative;
+}
+
+
 .portfolio_container{
     display: grid;
     grid-template-columns:repeat(3,1fr);
@@ -36,7 +44,8 @@
         gap:1.2rem;
     }
     .portfolio_item .btn{
-        width: 7rem;
+        width: 6rem!important;
+        font-size: 0.7rem!important;
     }
 }
 
@@ -51,8 +60,9 @@
         padding: 1rem;
     }
 
-    .btn{
-        width: 6rem;
+    .portfolio_item .btn{
+        width: 7rem;
+        font-size: 0.6rem;
     }
 }
 

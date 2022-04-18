@@ -1,20 +1,63 @@
-import './experience.css'
+import './experience.css';
+import JS from '../../assets/jsLogo.png';
+import CSHARP from '../../assets/cSharp.png';
+import MONGO from '../../assets/mongoDB.png';
+import CSS from '../../assets/cssLogo.png';
+import NODE from '../../assets/nodeLogo.png';
+import HTML from '../../assets/htmlLogo.png';
+import BS from '../../assets/bootstrap.png';
+import JAVA from '../../assets/javaLogo.png';
+import PYTHON from '../../assets/pythonLogo.png';
+import SQL from '../../assets/sqlLogo.png';
+import SCRATCH from '../../assets/scratchLogo.png';
 
 const Experience = () => {
   return (
-    <section id='experience'>
-      {/* <h5>What Skills I Have</h5>
-      <h2>My Experience</h2>
+     <section class="" id='experience'>
+      <div class="">
+        <h1>Skills</h1>
+        <h2 class="">Technology</h2>
+      </div>
 
-      <div className="container experience_container">
-        <div className="experience_frontend">
-
-        </div>
-        <div className="experience_backend">
-          
-        </div>
-      </div> */}
-    </section>
+    <div class="skill-logo">
+      <div class="">
+        <img src={SCRATCH} alt=""/>
+      </div> 
+      <div class="">
+        <img src={HTML} alt="" />
+      </div> 
+      <div class="">
+        <img src={CSS} alt="" />
+      </div>
+      <div class="">
+        <img src={JS} alt="" />
+      </div>
+      <div class="">
+        <img src={NODE} alt="" />
+      </div>
+      <div class="">
+        <img src={MONGO} alt=""/>
+      </div>
+      <div class="">
+        <img src={MONGO} alt=""/>
+      </div>
+      <div class="">
+        <img src={BS} alt="" />
+      </div>
+      <div class="">
+        <img src={SQL} alt="" />
+      </div>
+      <div class="">
+        <img src={PYTHON} alt="" />
+      </div>
+      <div class="">
+        <img src={JAVA} alt=""/>
+      </div>
+      <div class="">
+        <img src={CSHARP} alt=""/>
+      </div>
+    </div>
+  </section>
   )
 }
 

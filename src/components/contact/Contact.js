@@ -1,17 +1,18 @@
 import './Contact.css'
 import {MdOutlineEmail} from 'react-icons/md';
+import {BsWhatsapp} from 'react-icons/bs'
 
 const Contact = () => {
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
+      <h1>Get In Touch</h1>
       <h2>Contact Me</h2>
 
       <div className="container contact_container" >
         <div className="contact_options">
             <article className="contact_option">
               <MdOutlineEmail className="contact_option-icon"/>
-              <h3>Email</h3>
+              <h4>Email</h4>
               <h5>pharyphal@icloud.com</h5>
               <a href="mailto:pharyphal@icloud.com" target="_blank">Send me a message</a>
             </article>
@@ -24,8 +25,8 @@ const Contact = () => {
             </article> */}
 
             <article className="contact_option">
-              <MdOutlineEmail className="contact_option-icon"/>
-              <h3>WhatsApp</h3>
+              <BsWhatsapp className="contact_option-icon"/>
+              <h4>WhatsApp</h4>
               <h5>+61430177557</h5>
               <a href="https://api.whatsapp.com/send?phone=+61430177557" target="_blank">Send me a message</a>
             </article>
