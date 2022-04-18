@@ -1,6 +1,6 @@
 #about{
     /* min-height: 100vh; */
-    padding: 7rem 1rem;
+    padding: 5rem 1rem;
     /* overflow-x: hidden; */
     position: relative;
     margin-bottom: 3rem;
@@ -13,7 +13,7 @@
 }
 
 .about_me{
-    width: 80%;
+    width: 100%;
     /* aspect-ratio: 1/1; */
     border-radius: 2rem;
     border:1px solid var(--color-primary);
@@ -26,14 +26,19 @@
     place-items: center;
 }
 
+
+
 .about_me-image{
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition:var(--transition);
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
+    /* height: 100%; */
+    /* width: 100%; */
+    /* object-fit: ; */
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
 
 }
 
@@ -48,17 +53,23 @@
 }
 
 .about_card{
-    background: var(--color-bg-variant);
+    /* background: var(--color-bg-variant); */
+    background: var(--color-bg);
     border: 1px solid transparent;
     border-radius: 1rem;
     padding:2rem;
     text-align: center;
 }
 
+
 .about_card:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: default;
+}
+
+.about_card h4{
+    margin-bottom: 0.2rem;
 }
 
 .about_icon{
@@ -67,8 +78,10 @@
     margin-bottom: 1rem;
 }
 
-.about_card h5{
-    font-size: 0.95rem;
+.about_card h6{
+    font-size: 0.75rem;
+    font-weight: lighter;
+    letter-spacing: 1.5px;
 }
 
 .about_card small{
@@ -78,7 +91,11 @@
 
 .about_content p{
     margin:2rem 0 2.6rem;
-    color: var(--color-light);
+    color: var(--color-white);
+    font-size: 0.90rem;
+    letter-spacing: 1px;
+    font-weight: lighter;
+    line-height: 35px;
 }
 
 

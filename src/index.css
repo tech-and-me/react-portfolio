@@ -50,7 +50,7 @@ body{
   margin: 0 auto ;
 }
 
-h1,h2,h3,h4,h5{
+h1,h2,h3,h4,h5,h6{
   font-weight: 500;
 }
 
@@ -71,6 +71,16 @@ section  h5{
 section h2{
   color: var(--color-primary);
   margin-bottom: 3rem;
+}
+
+h4{
+  color: var(--color-primary);
+}
+
+h6{
+  font-size: 0.8rem;
+  line-height: 24px;
+  letter-spacing: 1px;
 }
 
 .text-light{
@@ -135,6 +145,8 @@ img{
     .btn{
       padding: .5rem 0.7rem;
     }
+
+
 }
 
 

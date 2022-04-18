@@ -36,11 +36,11 @@ footer a{
 .footer_socials a{
     background: var(--color-primary);
     color:var(--color-white);
-    padding: 0.6rem;
-    border-radius:0.7rem;
+    padding: 0.4rem;
+    border-radius:0.3rem;
     display: flex;
     border: 1px solid transparent;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 .footer_socials a:hover{
