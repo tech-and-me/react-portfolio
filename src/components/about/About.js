@@ -1,8 +1,10 @@
 import './about.css';
 import ME from '../../assets/pharyAtCafe1.png';
 import {FaAward} from 'react-icons/fa';
-import {FiUsers} from 'react-icons/fi';
-import {VscFolderLibrary} from 'react-icons/vsc'
+// import {FiUsers} from 'react-icons/fi';
+// import {VscFolderLibrary} from 'react-icons/vsc'
+import {GiHearts} from 'react-icons/gi';
+import {VscGithub} from 'react-icons/vsc';
 
 const About = () => {
   return (
@@ -28,14 +30,14 @@ const About = () => {
             </article>
 
             <article className='about_card'>
-              <FiUsers className='about_icon'/>
+              <VscGithub className='about_icon'/>
               <h4>GitHub Activities</h4>
               <h6>80+ Repositories in 6 months</h6>         
               <h6>500+ Contributions in 8 months</h6>     
             </article>
 
             <article className='about_card'>
-                <VscFolderLibrary className='about_icon'/>
+                <GiHearts className='about_icon'/>
                 <h4>I love</h4>
                 <h6>Programming</h6>         
                 <h6>Challenges</h6>         

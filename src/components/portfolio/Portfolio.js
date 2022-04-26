@@ -5,6 +5,9 @@ import IMG3 from '../../assets/portFolio/taskPlanner.png'
 import IMG4 from '../../assets/portFolio/greenexExpo.PNG'
 import IMG5 from '../../assets/portFolio/nodeFarm.png'
 import IMG6 from '../../assets/portFolio/not-to-do-list.png'
+import IMG7 from '../../assets/portFolio/movieCave.PNG'
+import IMG8 from '../../assets/portFolio/DestinyNumber.PNG'
+import IMG9 from '../../assets/portFolio/feedbackApp.PNG'
 
 const data = [
   {
@@ -48,6 +51,27 @@ const data = [
     title:"To-Do and Not-To-Do List",
     github:"https://github.com/tech-and-me/react-not-to-do-list-2",
     demo:"https://tech-and-me.github.io/react-not-to-do-list-2/"
+  },
+  {
+    id:7,
+    image:IMG7,
+    title:"React Movie Collections",
+    github:"https://github.com/tech-and-me/react-movie-cave",
+    demo:"https://tech-and-me.github.io/react-movie-cave/"
+  },
+  {
+    id:8,
+    image:IMG8,
+    title:"Destiny Number Calculator",
+    github:"https://github.com/tech-and-me/destinyNumberCalculator",
+    demo:"https://tech-and-me.github.io/destinyNumberCalculator/"
+  },
+  {
+    id:9,
+    image:IMG9,
+    title:"Feedback App",
+    github:"https://github.com/tech-and-me/react-feedback-app",
+    demo:"https://tech-and-me.github.io/react-feedback-app/"
   }
 
 ]
@@ -70,8 +94,8 @@ const Portfolio = () => {
                 <img src={el.image} alt={el.title} />
               </div>
               <h4>{el.title}</h4>
-              <a href={el.github} className="btn">Github</a>
-              <a href={el.demo} className="btn btn-primary">Live Demo</a>   
+              <a href={el.github} target="_blank" className="btn">Github</a>
+              <a href={el.demo} target="_blank" className="btn btn-primary">Live Demo</a>   
             </article>
             )
           })

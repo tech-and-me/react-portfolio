@@ -10,6 +10,7 @@ import JAVA from '../../assets/javaLogo.png';
 import PYTHON from '../../assets/pythonLogo.png';
 import SQL from '../../assets/sqlLogo.png';
 import SCRATCH from '../../assets/scratchLogo.png';
+import ASP from '../../assets/aspNetCore.png';
 
 const Experience = () => {
   return (
@@ -55,6 +56,9 @@ const Experience = () => {
       </div>
       <div class="">
         <img src={CSHARP} alt=""/>
+      </div>
+      <div class="">
+        <img src={ASP} alt=""/>
       </div>
     </div>
   </section>
