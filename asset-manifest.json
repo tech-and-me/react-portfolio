@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c36e3211.css",
-    "main.js": "/react-portfolio/static/js/main.74189561.js",
+    "main.js": "/react-portfolio/static/js/main.2df96844.js",
     "static/media/movieCave.PNG": "/react-portfolio/static/media/movieCave.0e5ed0a74f17b8b2a764.PNG",
     "static/media/greenexExpo.PNG": "/react-portfolio/static/media/greenexExpo.c55ae1018e6413a4f59e.PNG",
-    "static/media/resume.pdf": "/react-portfolio/static/media/resume.ae0b54c5bb3f7f989f22.pdf",
     "static/media/neakersCave.PNG": "/react-portfolio/static/media/neakersCave.854ef3534c352d88cb50.PNG",
     "static/media/taskPlanner.png": "/react-portfolio/static/media/taskPlanner.d5ab2afe2611cde6f0e6.png",
     "static/media/nodeFarm.png": "/react-portfolio/static/media/nodeFarm.ecdb6e150fad5f84789d.png",
@@ -15,9 +14,11 @@
     "static/media/DestinyNumber.PNG": "/react-portfolio/static/media/DestinyNumber.5490129f21a94dd08775.PNG",
     "static/media/feedbackApp.PNG": "/react-portfolio/static/media/feedbackApp.cc9f53f527dc73ed910c.PNG",
     "static/media/not-to-do-list.png": "/react-portfolio/static/media/not-to-do-list.3b6b6f364498042ff066.png",
+    "static/media/reactLogo.png": "/react-portfolio/static/media/reactLogo.8b186b116b847a60954f.png",
     "static/media/logoWhitePhary.png": "/react-portfolio/static/media/logoWhitePhary.c6d7ba88c0c9cb00f52e.png",
     "static/media/aspNetCore.png": "/react-portfolio/static/media/aspNetCore.3145a6181e9a383f9fcf.png",
     "static/media/pythonLogo.png": "/react-portfolio/static/media/pythonLogo.8cc582525dc4659c4d59.png",
+    "static/media/efCore.png": "/react-portfolio/static/media/efCore.8635afcb54318391c99b.png",
     "static/media/scratchLogo.png": "/react-portfolio/static/media/scratchLogo.6464973fab1bf54ee324.png",
     "static/media/bootstrap.png": "/react-portfolio/static/media/bootstrap.a379f926b55d86537c9b.png",
     "static/media/mongoDB.png": "/react-portfolio/static/media/mongoDB.3586a8d4eb6bfe5b769a.png",
@@ -30,10 +31,10 @@
     "static/media/cSharp.png": "/react-portfolio/static/media/cSharp.f2c0e728b2f27d9afd45.png",
     "index.html": "/react-portfolio/index.html",
     "main.c36e3211.css.map": "/react-portfolio/static/css/main.c36e3211.css.map",
-    "main.74189561.js.map": "/react-portfolio/static/js/main.74189561.js.map"
+    "main.2df96844.js.map": "/react-portfolio/static/js/main.2df96844.js.map"
   },
   "entrypoints": [
     "static/css/main.c36e3211.css",
-    "static/js/main.74189561.js"
+    "static/js/main.2df96844.js"
   ]
 }
