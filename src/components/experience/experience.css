@@ -1,6 +1,6 @@
 
 #experience img{
-    width: 100px;
+    width: 80px;
 }
 
 
@@ -15,12 +15,12 @@
 
 @media screen and (max-width:1024px){
     #experience img{
-        width: 90px;
+        width: 60px;
     }
 
     .skill-logo{
         gap: 3rem;
-        padding: 1rem 5rem;
+        padding: 1rem 3rem;
     }
     
 
@@ -29,15 +29,13 @@
 
 
 
-
-
 @media screen and (max-width: 600px){
     #experience img{
-        width: 70px;
+        width: 60px;
     }
 
     .skill-logo{
         gap: 3rem;
-        padding: 1rem 3rem;
+        padding: 1rem 2rem;
     }
 }

@@ -34,8 +34,13 @@
 
 .portolio_item h3{
     margin: 1.2rem 0 2rem;
+    font-size: 200px;
 }
 
+.portfolio_item .btn{
+    width: 5rem!important;
+    font-size: 0.6rem!important;
+}
 
 /* ===========================MEDIA QUERIES (MEDIUM DEVICES)======================== */
 @media screen and (max-width:1024px){
@@ -44,8 +49,8 @@
         gap:1.2rem;
     }
     .portfolio_item .btn{
-        width: 6rem!important;
-        font-size: 0.7rem!important;
+        width: 5rem!important;
+        font-size: 0.6rem!important;
     }
 }
 
@@ -61,7 +66,7 @@
     }
 
     .portfolio_item .btn{
-        width: 7rem;
+        width: 5rem;
         font-size: 0.6rem;
     }
 }

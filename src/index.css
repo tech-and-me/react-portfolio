@@ -59,7 +59,7 @@ h1{
 }
 
 section{
-  margin-top: 8rem;
+  margin-top: 5rem;
 }
 
 section  h2,
@@ -70,7 +70,7 @@ section  h5{
 
 section h2{
   color: var(--color-primary);
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 h4{
@@ -137,14 +137,12 @@ img{
     width:var(--container-width-md);
   }
 
+
   section{
-      margin-top:15rem;
+      margin-top:12rem;
       /* min-height: 100vh; */
     }
 
-    .btn{
-      padding: .5rem 0.7rem;
-    }
 
 
 }
@@ -159,6 +157,7 @@ img{
   section > h2{
       margin-bottom:2rem;
     }
+
 
    
 }
