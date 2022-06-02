@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.74fe5a25.css",
-    "main.js": "/react-portfolio/static/js/main.ead4a87b.js",
+    "main.js": "/react-portfolio/static/js/main.f053fc1d.js",
     "static/media/movieCave.PNG": "/react-portfolio/static/media/movieCave.0e5ed0a74f17b8b2a764.PNG",
     "static/media/greenexExpo.PNG": "/react-portfolio/static/media/greenexExpo.c55ae1018e6413a4f59e.PNG",
     "static/media/neakersCave.PNG": "/react-portfolio/static/media/neakersCave.854ef3534c352d88cb50.PNG",
@@ -19,6 +19,7 @@
     "static/media/aspNetCore.png": "/react-portfolio/static/media/aspNetCore.3145a6181e9a383f9fcf.png",
     "static/media/pythonLogo.png": "/react-portfolio/static/media/pythonLogo.8cc582525dc4659c4d59.png",
     "static/media/efCore.png": "/react-portfolio/static/media/efCore.8635afcb54318391c99b.png",
+    "static/media/restAPI.png": "/react-portfolio/static/media/restAPI.a6b35c33be90ffc3e896.png",
     "static/media/scratchLogo.png": "/react-portfolio/static/media/scratchLogo.6464973fab1bf54ee324.png",
     "static/media/bootstrap.png": "/react-portfolio/static/media/bootstrap.a379f926b55d86537c9b.png",
     "static/media/mongoDB.png": "/react-portfolio/static/media/mongoDB.3586a8d4eb6bfe5b769a.png",
@@ -31,10 +32,10 @@
     "static/media/cSharp.png": "/react-portfolio/static/media/cSharp.f2c0e728b2f27d9afd45.png",
     "index.html": "/react-portfolio/index.html",
     "main.74fe5a25.css.map": "/react-portfolio/static/css/main.74fe5a25.css.map",
-    "main.ead4a87b.js.map": "/react-portfolio/static/js/main.ead4a87b.js.map"
+    "main.f053fc1d.js.map": "/react-portfolio/static/js/main.f053fc1d.js.map"
   },
   "entrypoints": [
     "static/css/main.74fe5a25.css",
-    "static/js/main.ead4a87b.js"
+    "static/js/main.f053fc1d.js"
   ]
 }
