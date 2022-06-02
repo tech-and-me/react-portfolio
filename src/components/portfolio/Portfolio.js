@@ -16,7 +16,7 @@ const data = [
     title: "Blog Fullstack",
     github: "https://github.com/tech-and-me/fullstack-blog-client",
     demo: "https://dainty-gecko-2d4bd7.netlify.app/",
-    tech: "ReactJs | Express | NodeJs | MySQL | Bootstrap",
+    tech: "ReactJs | Express | NodeJs | MySQL | Html | Css | Bootstrap",
   },
   {
     id: 1,
