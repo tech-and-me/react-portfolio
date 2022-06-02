@@ -16,8 +16,8 @@
 .about_me{
     width: 100%;
     /* aspect-ratio: 1/1; */
-    border-radius: 2rem;
-    border:1px solid var(--color-primary);
+    /* border-radius: 2rem; */
+    /* border:1px solid var(--color-primary); */
     /* background: var(--color-primary); */
     /* background:linear-gradient(45deg,
     transparent,
@@ -30,17 +30,14 @@
 
 
 .about_me-image{
-    border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition:var(--transition);
-    /* height: 100%; */
-    /* width: 100%; */
-    /* object-fit: ; */
     max-width: 100%;
     max-height: 100%;
     display: block;
-
+    border:2px solid var(--color-primary);
+    padding: 15px;
 }
 
 .about_me-image:hover{
