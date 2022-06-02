@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.74fe5a25.css",
-    "main.js": "/react-portfolio/static/js/main.f053fc1d.js",
+    "main.css": "/react-portfolio/static/css/main.629f5cba.css",
+    "main.js": "/react-portfolio/static/js/main.15607f29.js",
     "static/media/movieCave.PNG": "/react-portfolio/static/media/movieCave.0e5ed0a74f17b8b2a764.PNG",
     "static/media/greenexExpo.PNG": "/react-portfolio/static/media/greenexExpo.c55ae1018e6413a4f59e.PNG",
     "static/media/neakersCave.PNG": "/react-portfolio/static/media/neakersCave.854ef3534c352d88cb50.PNG",
@@ -31,11 +31,11 @@
     "static/media/cssLogo.png": "/react-portfolio/static/media/cssLogo.370c4346961d846fb7ef.png",
     "static/media/cSharp.png": "/react-portfolio/static/media/cSharp.f2c0e728b2f27d9afd45.png",
     "index.html": "/react-portfolio/index.html",
-    "main.74fe5a25.css.map": "/react-portfolio/static/css/main.74fe5a25.css.map",
-    "main.f053fc1d.js.map": "/react-portfolio/static/js/main.f053fc1d.js.map"
+    "main.629f5cba.css.map": "/react-portfolio/static/css/main.629f5cba.css.map",
+    "main.15607f29.js.map": "/react-portfolio/static/js/main.15607f29.js.map"
   },
   "entrypoints": [
-    "static/css/main.74fe5a25.css",
-    "static/js/main.f053fc1d.js"
+    "static/css/main.629f5cba.css",
+    "static/js/main.15607f29.js"
   ]
 }
