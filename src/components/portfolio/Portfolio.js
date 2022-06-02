@@ -16,7 +16,7 @@ const data = [
     title: "Blog Fullstack",
     github: "https://github.com/tech-and-me/fullstack-blog-client",
     demo: "https://dainty-gecko-2d4bd7.netlify.app/",
-    tech: "ReactJs | Express | NodeJs | MySQL | Html | Css | Bootstrap",
+    tech: "ReactJs | Express | NodeJs | MySQL | RESTful API | Html | Css | Bootstrap",
   },
   {
     id: 1,
@@ -24,7 +24,7 @@ const data = [
     title: "API Quiz Project",
     github: "https://github.com/tech-and-me/quizAPI",
     demo: "https://tech-and-me.github.io/quizAPI/",
-    tech: "JavaScript | Html | CSS",
+    tech: "JavaScript | RESTful API | Html | CSS",
   },
   {
     id: 2,
@@ -72,7 +72,7 @@ const data = [
     title: "React Movie Collections",
     github: "https://github.com/tech-and-me/react-movie-cave",
     demo: "https://tech-and-me.github.io/react-movie-cave/",
-    tech: "ReactJs | Html | Css | Bootstrap",
+    tech: "ReactJs | RESTful API | Html | Css | Bootstrap",
   },
 
   {

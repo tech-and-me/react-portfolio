@@ -13,6 +13,7 @@ import SCRATCH from "../../assets/scratchLogo.png";
 import ASP from "../../assets/aspNetCore.png";
 import React from "../../assets/reactLogo.png";
 import EFCore from "../../assets/efCore.png";
+import API from "../../assets/restAPI.png";
 
 const Experience = () => {
   return (
@@ -23,6 +24,9 @@ const Experience = () => {
       </div>
 
       <div class="skill-logo">
+        <div class="">
+          <img src={API} alt="api" />
+        </div>
         <div class="">
           <img src={JS} alt="Js" />
         </div>
