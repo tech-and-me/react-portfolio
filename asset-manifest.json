@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.07f4825b.css",
-    "main.js": "/react-portfolio/static/js/main.2df96844.js",
+    "main.css": "/react-portfolio/static/css/main.74fe5a25.css",
+    "main.js": "/react-portfolio/static/js/main.ead4a87b.js",
     "static/media/movieCave.PNG": "/react-portfolio/static/media/movieCave.0e5ed0a74f17b8b2a764.PNG",
     "static/media/greenexExpo.PNG": "/react-portfolio/static/media/greenexExpo.c55ae1018e6413a4f59e.PNG",
     "static/media/neakersCave.PNG": "/react-portfolio/static/media/neakersCave.854ef3534c352d88cb50.PNG",
@@ -10,8 +10,8 @@
     "static/media/pharyAtCafe1.png": "/react-portfolio/static/media/pharyAtCafe1.053f1cc2eab6ce0ccfe2.png",
     "static/media/pharyPic-cityBg.png": "/react-portfolio/static/media/pharyPic-cityBg.84a494d6f3d311e98113.png",
     "static/media/vertical_cloth.png": "/react-portfolio/static/media/vertical_cloth.423caad3c422bfa31c1d.png",
+    "static/media/blog-fullstack.PNG": "/react-portfolio/static/media/blog-fullstack.005dea2f01050c24e974.PNG",
     "static/media/apiQuiz.PNG": "/react-portfolio/static/media/apiQuiz.f72ef90c1d1d7d981e8d.PNG",
-    "static/media/DestinyNumber.PNG": "/react-portfolio/static/media/DestinyNumber.5490129f21a94dd08775.PNG",
     "static/media/feedbackApp.PNG": "/react-portfolio/static/media/feedbackApp.cc9f53f527dc73ed910c.PNG",
     "static/media/not-to-do-list.png": "/react-portfolio/static/media/not-to-do-list.3b6b6f364498042ff066.png",
     "static/media/reactLogo.png": "/react-portfolio/static/media/reactLogo.8b186b116b847a60954f.png",
@@ -30,11 +30,11 @@
     "static/media/cssLogo.png": "/react-portfolio/static/media/cssLogo.370c4346961d846fb7ef.png",
     "static/media/cSharp.png": "/react-portfolio/static/media/cSharp.f2c0e728b2f27d9afd45.png",
     "index.html": "/react-portfolio/index.html",
-    "main.07f4825b.css.map": "/react-portfolio/static/css/main.07f4825b.css.map",
-    "main.2df96844.js.map": "/react-portfolio/static/js/main.2df96844.js.map"
+    "main.74fe5a25.css.map": "/react-portfolio/static/css/main.74fe5a25.css.map",
+    "main.ead4a87b.js.map": "/react-portfolio/static/js/main.ead4a87b.js.map"
   },
   "entrypoints": [
-    "static/css/main.07f4825b.css",
-    "static/js/main.2df96844.js"
+    "static/css/main.74fe5a25.css",
+    "static/js/main.ead4a87b.js"
   ]
 }
