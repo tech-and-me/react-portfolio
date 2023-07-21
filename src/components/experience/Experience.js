@@ -16,63 +16,65 @@ import EFCore from "../../assets/efCore.png";
 import API from "../../assets/restAPI.png";
 
 const Experience = () => {
-  return (
-    <section class="" id="experience">
-      <div class="">
-        <h1>Skills</h1>
-        <h2 class="">Technology</h2>
-      </div>
+   return (
+      <section class="" id="experience">
+         <div class="">
+            <h1>Skills</h1>
+            <h2 class="">Technology</h2>
+         </div>
 
-      <div class="skill-logo">
-        <div class="">
-          <img src={API} alt="api" />
-        </div>
-        <div class="">
-          <img src={JS} alt="Js" />
-        </div>
-        <div class="">
-          <img src={React} alt="React" />
-        </div>
-        <div class="">
-          <img src={NODE} alt="Node" />
-        </div>
-        <div class="">
-          <img src={SQL} alt="Sql" />
-        </div>
-        <div class="">
-          <img src={MONGO} alt="Mongo" />
-        </div>
-        <div class="">
+         <div class="skill-logo">
+            <div class="">
+               <img src={JAVA} alt="Java" />
+            </div>
+
+            <div class="">
+               <img src={JS} alt="Js" />
+            </div>
+            <div class="">
+               <img src={React} alt="React" />
+            </div>
+            <div class="">
+               <img src={NODE} alt="Node" />
+            </div>
+            <div class="">
+               <img src={SQL} alt="Sql" />
+            </div>
+            <div class="">
+               <img src={PYTHON} alt="Python" />
+            </div>
+            <div class="">
+               <img src={MONGO} alt="Mongo" />
+            </div>
+            {/* <div class="">
           <img src={ASP} alt="Asp" />
-        </div>
-        <div class="">
+        </div> */}
+            {/* <div class="">
           <img src={EFCore} alt="EFCore" />
-        </div>
-        <div class="">
+        </div> */}
+            {/* <div class="">
           <img src={CSHARP} alt="CSharp" />
-        </div>
-        <div class="">
-          <img src={HTML} alt="Html" />
-        </div>
-        <div class="">
-          <img src={CSS} alt="Css" />
-        </div>
-        <div class="">
-          <img src={BS} alt="Bs" />
-        </div>
-        <div class="">
-          <img src={PYTHON} alt="Python" />
-        </div>
-        <div class="">
-          <img src={JAVA} alt="Java" />
-        </div>
+        </div> */}
+            <div class="">
+               <img src={HTML} alt="Html" />
+            </div>
+            <div class="">
+               <img src={CSS} alt="Css" />
+            </div>
+            <div class="">
+               <img src={BS} alt="Bs" />
+            </div>
 
-        <div class="">
+            <div class="">
+               <img src={API} alt="api" />
+            </div>
+
+            {/* <div class="">
           <img src={SCRATCH} alt="Scratch" />
-        </div>
-      </div>
-    </section>
-  );
+        </div> */}
+         </div>
+      </section>
+   );
 };
 
 export default Experience;
