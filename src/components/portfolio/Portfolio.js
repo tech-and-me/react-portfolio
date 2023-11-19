@@ -5,7 +5,7 @@ import IMG3 from "../../assets/portFolio/taskPlanner.png";
 import IMG4 from "../../assets/portFolio/greenexExpo.PNG";
 import IMG5 from "../../assets/portFolio/nodeFarm.png";
 import IMG6 from "../../assets/portFolio/not-to-do-list.png";
-import IMG7 from "../../assets/portFolio/movieCave.PNG";
+import IMG7 from "../../assets/portFolio/StickyNote.PNG";
 import IMG8 from "../../assets/portFolio/blog-fullstack.PNG";
 import IMG9 from "../../assets/portFolio/feedbackApp.PNG";
 
@@ -69,10 +69,10 @@ const data = [
    {
       id: 7,
       image: IMG7,
-      title: "React Movie Collections",
-      github: "https://github.com/tech-and-me/react-movie-cave",
-      demo: "https://tech-and-me.github.io/react-movie-cave/",
-      tech: "ReactJs | RESTful API | Html | Css | Bootstrap",
+      title: "React Sticky Note",
+      github: "https://github.com/tech-and-me/react-sticky-note",
+      demo: "https://tech-and-me.github.io/react-sticky-note/",
+      tech: "ReactJs | Html | Css | Bootstrap",
    },
 
    {
